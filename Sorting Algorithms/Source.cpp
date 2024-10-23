@@ -1,9 +1,8 @@
-/* sec2-Yunus-Gunay-22203758 */
-
 #include <cstdlib>
 #include <algorithm>
 #include <iostream>
 #include <cmath>
+#include <ctime>
 using namespace std;
 
 static long long comparisons = 0;
